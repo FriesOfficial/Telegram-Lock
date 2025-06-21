@@ -14,7 +14,8 @@ Bot托管，功能定制，自由组合！
 免费提供多种常用功能：双向聊天客服，频道/群组管理！
 界面管理.人性化操作，简单易用！
 
-免费体验：@FriesOfficialBot
+免费体验：[@FriesOfficialBot](https://t.me/FriesOfficialBot)
+技术讨论：[https://t.me/FriesClub](https://t.me/FriesClub)
 
 ## 功能特点
 
